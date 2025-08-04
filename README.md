@@ -1,7 +1,7 @@
 # Hi there, I'm Devang! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=devangvangane&color=blue)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/devangvangane)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/devang-vangane-cte-gecbvn-it-330916257)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?logo=gmail&style=flat-square)](mailto:devangvangane9@gmail.com)
 
 ---
